@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sukanto/WD/genre_classification/mlruns/0/9188fb75092f4290a1b56cfe2d9b2c7f/artifacts
+end_time: 1637081498716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9188fb75092f4290a1b56cfe2d9b2c7f
+run_uuid: 9188fb75092f4290a1b56cfe2d9b2c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637081452003
+status: 3
+tags: []
+user_id: sukanto

@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.0.1-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-11-16T16:39:56.192996",
+    "startedAt": "2021-11-16T16:39:55.057124",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/sukanto/WD/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/sukanto-m/genre_classification",
+        "commit": "9086982642e42bd83c91c6d25a790b36aabf1695"
+    },
+    "email": null,
+    "root": "/Users/sukanto/WD/genre_classification",
+    "host": "Sukantos-MacBook-Pro.local",
+    "username": "sukanto",
+    "executable": "/opt/anaconda3/envs/mlflow-4b67c93d2a95df2e00cbf3c9f644d2e3dada00e0/bin/python"
+}

@@ -1,0 +1,35 @@
+{
+    "os": "macOS-12.0.1-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-11-16T16:50:23.089349",
+    "startedAt": "2021-11-16T16:50:21.752510",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/sukanto/WD/genre_classification/segregate/run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/sukanto-m/genre_classification",
+        "commit": "9086982642e42bd83c91c6d25a790b36aabf1695"
+    },
+    "email": null,
+    "root": "/Users/sukanto/WD/genre_classification",
+    "host": "Sukantos-MacBook-Pro.local",
+    "username": "sukanto",
+    "executable": "/opt/anaconda3/envs/mlflow-b536c99cab3f07bfeb0a1ad9e153575c07cd087e/bin/python"
+}

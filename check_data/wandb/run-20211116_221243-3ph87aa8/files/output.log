@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.9.7, pytest-6.2.2, py-1.11.0, pluggy-0.13.1 -- /opt/anaconda3/envs/mlflow-7398531e5288219e428182dc4d6601ae57991d39/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/sukanto/WD/genre_classification/check_data
+collecting ... collected 4 items
+
+test_data.py::test_column_presence_and_type PASSED
+test_data.py::test_class_names PASSED
+test_data.py::test_column_ranges PASSED
+test_data.py::test_kolmogorov_smirnov PASSED
